@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Project Brief
-This app is part of a Udacity project.  REstaurant Review app using React and Redux
+This app is part of a Udacity project.
 
 ## Available Scripts
 
