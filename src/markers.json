@@ -1,0 +1,84 @@
+{
+  "markers": [
+    {
+      "position": {
+          "lat": 41.09,
+          "lng": -104.48
+        },
+      "label": "14",
+      "city": "Cheyenne, WY"
+    },
+    {
+      "position": {
+          "lat": 41.05,
+          "lng": -85.08
+        },
+      "label": "19",
+      "city": "Fort Wayne, IN"
+    },
+    {
+      "position": {
+          "lat": 40.49,
+          "lng": -96.41
+        },
+      "label": "11",
+      "city": "Lincoln, NE"
+    },
+    {
+      "position": {
+          "lat": 40.43,
+          "lng": -74.04
+        },
+      "label": "24",
+      "city": "Jersey City, NJ"
+    },
+    {
+      "position": {
+          "lat": 40.27,
+          "lng": 80.00
+        },
+      "label": "6",
+      "city": "Pittsburgh, PA"
+    },
+    {
+      "position": {
+          "lat": 38.33,
+          "lng": -121.28
+        },
+      "label": "11",
+      "city": "Sacramento, CA"
+    },
+    {
+      "position": {
+          "lat": 37.12,
+          "lng": -93.17
+        },
+      "label": "30",
+      "city": "Springfield, MO"
+    },
+    {
+      "position": {
+          "lat": 35.40,
+          "lng": -105.58
+        },
+      "label": "19",
+      "city": "Santa Fe, NM "
+    },
+    {
+      "position": {
+          "lat": 35.14,
+          "lng": -80.51
+        },
+      "label": "22",
+      "city": "Charlotte, NC"
+    },
+    {
+      "position": {
+          "lat": 34.44,
+          "lng": -92.20
+        },
+      "label": "11",
+      "city": "Little Rock, AK"
+    }
+  ]
+}

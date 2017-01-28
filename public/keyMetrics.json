@@ -1,0 +1,20 @@
+{
+  "openIssues": 37,
+  "payingCustomers" : [
+    { "month": "JAN", "customers": 1100 },
+    { "month": "MAR", "customers": 875 },
+    { "month": "MAY", "customers": 922 },
+    { "month": "JUL", "customers": 1004 },
+    { "month": "SEP", "customers": 1153 },
+    { "month": "OCT", "customers": 1024 },
+    { "month": "DEC", "customers": 1090 }
+  ],
+  "issuesByMonth" : [
+                   [1, 31], [2,28],
+                   [3,9], [4, 5],
+                   [5, 44], [6,18],
+                   [7, 22], [8,14],
+                   [9, 36], [10, 14],
+                   [11, 18], [12, 15]
+                 ]
+}

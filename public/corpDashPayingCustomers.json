@@ -1,0 +1,50 @@
+[
+  {
+    "payingCustomers": 120,
+    "time": "01-Jan-2015"
+  },
+  {
+    "payingCustomers": 144,
+    "time": "01-Feb-2016"
+  },
+  {
+    "payingCustomers": 178,
+    "time": "01-Mar-2016"
+  },
+  {
+    "payingCustomers": 220,
+    "time": "01-Apr-2016"
+  },
+  {
+    "payingCustomers": 310,
+    "time": "01-May-2016"
+  },
+  {
+    "payingCustomers": 314,
+    "time": "01-Jun-2016"
+  },
+  {
+    "payingCustomers": 318,
+    "time": "01-Jul-2016"
+  },
+  {
+    "payingCustomers": 440,
+    "time": "01-Aug-2016"
+  },
+  {
+    "payingCustomers": 474,
+    "time": "01-Sep-2016"
+  },
+  {
+    "payingCustomers": 518,
+    "time": "01-Oct-2016"
+  },
+  {
+    "payingCustomers": 504,
+    "time": "01-Nov-2016"
+  },
+  {
+    "payingCustomers": 620,
+    "time": "01-Dec-2016"
+  }
+]
